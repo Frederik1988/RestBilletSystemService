@@ -1,0 +1,17 @@
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\RestBilletSystemService.deps.json
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\RestBilletSystemService.runtimeconfig.json
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\RestBilletSystemService.runtimeconfig.dev.json
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\RestBilletSystemService.dll
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\RestBilletSystemService.pdb
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\RestBilletSystemService\RestBilletSystemService\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.csprojAssemblyReference.cache
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.csproj.CoreCompileInputs.cache
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.RazorAssemblyInfo.cache
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.RazorAssemblyInfo.cs
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.AssemblyInfoInputs.cache
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.AssemblyInfo.cs
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.RazorTargetAssemblyInfo.cache
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.csproj.CopyComplete
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.dll
+C:\source\RestBilletSystemService\RestBilletSystemService\obj\Debug\netcoreapp2.1\RestBilletSystemService.pdb
